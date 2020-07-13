@@ -1,0 +1,15 @@
+.style {
+    float: right;
+    margin-top: 8px;
+    margin-right: 10px;
+}
+.style button {
+    font-size: 15px;
+    border: none;
+    padding: 0 7px;
+    transition: 0.25s ease-in-out;
+}
+
+.style button:hover  {
+    background-color: gray;
+}
